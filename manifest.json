@@ -1,0 +1,32 @@
+{
+  "name": "macos",
+  "short_name": "macos",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3D3D3D",
+  "background_color": "#3D3D3D",
+  "author": "Taeyeong Kim",
+  "description": "Taeyeong Kim",
+  "icons": [
+    {
+      "src": "https://graph.facebook.com/100005652857530/picture?type=small",
+      "sizes": "50x50",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://graph.facebook.com/100005652857530/picture?type=normal",
+      "sizes": "100x100",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://graph.facebook.com/100005652857530/picture?type=large",
+      "sizes": "200x200",
+      "type": "image/jpeg"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
