@@ -1,6 +1,6 @@
 {
-  "name": "macos",
-  "short_name": "macos",
+  "name": "mac",
+  "short_name": "mac",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#3D3D3D",
